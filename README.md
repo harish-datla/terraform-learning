@@ -43,3 +43,9 @@ Here's a breakdown of the topics covered in this learning repository:
 *   **Chapter 6: Best Practices** - [Discover best practices for writing, organizing, and managing Terraform code](./chapter6_best_practices/README.md)
 
 We recommend going through the chapters sequentially for the best learning experience.
+
+## AWS Terraform Examples
+
+This section of the repository is dedicated to providing practical, real-world examples of using Terraform to provision and manage various Amazon Web Services (AWS). You'll find configurations for common services, demonstrating different resource types and features.
+
+For detailed examples, see the [AWS Terraform Examples](./aws_terraform_examples/README.md) section.
